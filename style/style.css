@@ -5,7 +5,7 @@
   }
   
   body {
-    background-color: #121212; /* Fundo levemente mais escuro para combinar com o design */
+    background-color: #49174f; /* Fundo levemente mais escuro para combinar com o design */
     height: 100vh;
     font-family: 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   }
@@ -27,7 +27,7 @@
     align-items: center;
     font-size: 20px;
     font-weight: 700;
-    color: #948097;
+    color: #f1edf1;
     margin-top: -159px;
   }
   
